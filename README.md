@@ -1,3 +1,3 @@
-# Refernce-data Microservice
+# Reference-data microservice
 
 this project is work-in-progress.
